@@ -238,5 +238,38 @@
     "birthPlace": "Iwate Prefecture",
     "personality": "Tenderhearted",
     "ultimateMoves": ["Hitchcock Birds", "Bugging Out"]
+  },
+  {
+    "name": "Tetsutetsu Tetsutetsu",
+    "heroName": "Real Steel",
+    "quirk": "Steel",
+    "birthDay": "10 16",
+    "height": "174",
+    "bloodType": "B",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "Scorchingly hot-blooded",
+    "ultimateMoves": ["My Fist", "Horn Dash Hammer", "Heatetsu"]
+  },
+  {
+    "name": "Neito Monoma",
+    "heroName": "Phantom Thief",
+    "quirk": "Copy",
+    "birthDay": "05 13",
+    "height": "170",
+    "bloodType": "A",
+    "birthPlace": "Kanagawa Prefecture",
+    "personality": "Kind to his allies",
+    "ultimateMoves": ["Scanners"]
+  },
+  {
+    "name": "Itsuka Kendo",
+    "heroName": "Battle Fist",
+    "quirk": "Big Fist",
+    "birthDay": "09 9",
+    "height": "166",
+    "bloodType": "O",
+    "birthPlace": "Chiba Prefecture",
+    "personality": "Refreshingly easygoing",
+    "ultimateMoves": ["Double Jumbo Fist"]
   }
 ]
