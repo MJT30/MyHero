@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Izuku Midoriya",
+    "heroName": "Deku",
+    "quirk": "One for All",
+    "birthDay": "07 15",
+    "height": "165",
+    "bloodType": "O",
+    "birthPlace": "Around Shizuoka Prefecture",
+    "personality": "Get-it-done fanboy",
+    "ultimateMoves": ["Detroit Smash", "Delaware Smash", "Full Cowling", "etc"]
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "heroName": "Undecided",
+    "quirk": "Explosion",
+    "birthDay": "04 20",
+    "height": "172",
+    "bloodType": "A",
+    "birthPlace": "Around Shizuoka Prefecture",
+    "personality": "Abusive egotist",
+    "ultimateMoves": [
+      "Howitzer Impact",
+      "Stun Grenade",
+      "Armor-Piercing Shot",
+      "AP Shot: Auto-Cannon",
+      "Explode-a-Putt"
+    ]
+  },
+  {
+    "name": "Shoto Todoroki",
+    "heroName": "Shoto",
+    "quirk": "Half-Cold Half-Hot",
+    "birthDay": "01 11",
+    "height": "176",
+    "bloodType": "O",
+    "birthPlace": "Around Shizuoka Prefecture",
+    "personality": "A cool and hot airhead",
+    "ultimateMoves": ["Flashfreeze Heatwave", "Heaven-Piercing Ice Wall"]
+  },
+  {
+    "name": "Ochaco Uraraka",
+    "heroName": "Uravity",
+    "quirk": "Zero Gravity",
+    "birthDay": "12 27",
+    "height": "156",
+    "bloodType": "B",
+    "birthPlace": "Mie Prefecture",
+    "personality": "Eternally Uraraka",
+    "ultimateMoves": ["Comet Home Run", "Meteor Shower", "Gunhead Martial Arts"]
+  },
+  {
+    "name": "Tenya Ida",
+    "heroName": "Ingenium",
+    "quirk": "Engine",
+    "birthDay": "08 22",
+    "height": "179",
+    "bloodType": "A",
+    "birthPlace": "Tokyo",
+    "personality": "Class-Presidential",
+    "ultimateMoves": ["Reciproburst", "Recipro Extend", "Recipro Turbo"]
+  },
+  {
+    "name": "Tsuyu Asui",
+    "heroName": "Froppy",
+    "quirk": "Frog",
+    "birthDay": "02 12",
+    "height": "150",
+    "bloodType": "B",
+    "birthPlace": "Aichi Prefecture",
+    "personality": "Great friend and a composed lady",
+    "ultimateMoves": ["Camouflage", "Froppy Hopper"]
+  },
+  {
+    "name": "Eijiro Kirshima",
+    "heroName": "Red Riot",
+    "quirk": "Hardening",
+    "birthDay": "10 16",
+    "height": "171",
+    "bloodType": "O",
+    "birthPlace": "Chiba Prefecture",
+    "personality": "Enthusiasm generator",
+    "ultimateMoves": ["Red Counter", "Unbreakable", "Red Gaunlet"]
+  },
+  {
+    "name": "Momo Yayorozu",
+    "heroName": "Creati",
+    "quirk": "Creation",
+    "birthDay": "09 23",
+    "height": "173",
+    "bloodType": "A",
+    "birthPlace": "Aichi Prefecture",
+    "personality": "Occasional screwup",
+    "ultimateMoves": ["Yayorozu's Lucky Bag"]
+  }
+]
