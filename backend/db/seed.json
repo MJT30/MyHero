@@ -92,5 +92,151 @@
     "birthPlace": "Aichi Prefecture",
     "personality": "Occasional screwup",
     "ultimateMoves": ["Yayorozu's Lucky Bag"]
+  },
+  {
+    "name": "Fumikage Tokoyami",
+    "heroName": "Tsukuyomi",
+    "quirk": "Dark Shadow",
+    "birthDay": "10 30",
+    "height": "158",
+    "bloodType": "AB",
+    "birthPlace": "Shizuoka Prefecture",
+    "personality": "Calm and collected denizen of the abyss",
+    "ultimateMoves": [
+      "Abyssal Black Body",
+      "Piercing Twilight Claws",
+      "Covert Black-Ops Arms",
+      "Dark Shadow: Black Fallen Angel",
+      "etc"
+    ]
+  },
+  {
+    "name": "Minoru Mineta",
+    "heroName": "Grape Juice",
+    "quirk": "Pop Off",
+    "birthDay": "10 8",
+    "height": "108",
+    "bloodType": "A",
+    "birthPlace": "Kanagawa",
+    "personality": "Perverted straight shooter",
+    "ultimateMoves": ["Grape Rush", "Grape Buckler"]
+  },
+  {
+    "name": "Denki Kaminari",
+    "heroName": "Chargebolt",
+    "quirk": "Electrification",
+    "birthDay": "06 29",
+    "height": "168",
+    "bloodType": "O",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "All flash, little substance",
+    "ultimateMoves": ["Indiscriminate Shock 1.3 Million Volts", "Target Electo"]
+  },
+  {
+    "name": "Kyoka Jiro",
+    "heroName": "Earphone Jack",
+    "quirk": "Earphone Jack",
+    "birthDay": "08 1",
+    "height": "154",
+    "bloodType": "A",
+    "birthPlace": "Shizuoka Prefecture",
+    "personality": "Shy rock fan",
+    "ultimateMoves": ["Heartbeat Distortion", "Heartbeat Surround"]
+  },
+  {
+    "name": "Hanta Sero",
+    "heroName": "Cellophane",
+    "quirk": "Tape",
+    "birthDay": "07 28",
+    "height": "177",
+    "bloodType": "B",
+    "birthPlace": "Tokyo",
+    "personality": "Guy who can read the room",
+    "ultimateMoves": ["Barricade Tape", "Tape Shot: Trident"]
+  },
+  {
+    "name": "Yuga Aoyama",
+    "heroName": "Can't Stop Twinkling",
+    "quirk": "Navel Laser",
+    "birthDay": "05 30",
+    "height": "168",
+    "bloodType": "O",
+    "birthPlace": "France (or so he claims)",
+    "personality": "Narcissistic free spirit",
+    "ultimateMoves": ["Navel Buffet ⭐️ Laser"]
+  },
+  {
+    "name": "Mina Ashido",
+    "heroName": "Pinky",
+    "quirk": "Acid",
+    "birthDay": "08 30",
+    "height": "159",
+    "bloodType": "AB",
+    "birthPlace": "Chiba Prefecture",
+    "personality": "Pure energy",
+    "ultimateMoves": [
+      "Acid Veil",
+      "Acid Shot",
+      "Acid Layback",
+      "Grape-Pinky Combo: Mineta Bounce"
+    ]
+  },
+  {
+    "name": "Mezo Shoji",
+    "heroName": "Tentacole",
+    "quirk": "Dupli-Arms",
+    "birthDay": "02 15",
+    "height": "187",
+    "bloodType": "B",
+    "birthPlace": "Fukuoka Prefecture",
+    "personality": "Silent gentelman",
+    "ultimateMoves": ["Octo-Searcher", "Octoblow"]
+  },
+  {
+    "name": "Mashirao Ojiro",
+    "heroName": "Tailman",
+    "quirk": "Tail",
+    "birthDay": "05 28",
+    "height": "169",
+    "bloodType": "O",
+    "birthPlace": "Tokyo",
+    "personality": "Plain old hard worker",
+    "ultimateMoves": [
+      "Tornado Tail Dance",
+      "Fist of the Tail: Swamp Smack Spin"
+    ]
+  },
+  {
+    "name": "Toru Hagakure",
+    "heroName": "Invisible Girl",
+    "quirk": "Invisbility",
+    "birthDay": "06 16",
+    "height": "152",
+    "bloodType": "A",
+    "birthPlace": "Tokyo",
+    "personality": "Bright and cheery",
+    "ultimateMoves": ["Warp Refraction: Say Cheese"]
+  },
+  {
+    "name": "Rikido Sato",
+    "heroName": "Sugarman",
+    "quirk": "Sugar Rush",
+    "birthDay": "06 19",
+    "height": "185",
+    "bloodType": "O",
+    "birthPlace": "Tottori Prefecture",
+    "personality": "Just the sweetest boy",
+    "ultimateMoves": ["Sugar Rush"]
+  },
+  {
+    "name": "Koji Koda",
+    "heroName": "Anima",
+    "quirk": "Anivoice",
+    "birthDay": "02 1",
+    "height": "186",
+    "bloodType": "A",
+    "birthPlace": "Iwate Prefecture",
+    "personality": "Tenderhearted",
+    "ultimateMoves": ["Hitchcock Birds", "Bugging Out"]
   }
 ]
