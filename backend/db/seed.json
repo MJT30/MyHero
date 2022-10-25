@@ -271,5 +271,197 @@
     "birthPlace": "Chiba Prefecture",
     "personality": "Refreshingly easygoing",
     "ultimateMoves": ["Double Jumbo Fist"]
+  },
+  {
+    "name": "Ibara Shiozaki",
+    "heroName": "Vine",
+    "quirk": "Vines",
+    "birthDay": "09 8",
+    "height": "167",
+    "bloodType": "AB",
+    "birthPlace": "Kanagawa Prefecture",
+    "personality": "Fair, square, and aboveboard",
+    "ultimateMoves": [
+      "Via Dolorosa",
+      "Crucifixion",
+      "Faith's Shield",
+      "Big Tree"
+    ]
+  },
+  {
+    "name": "Kinoko Komori",
+    "heroName": "Shemage",
+    "quirk": "Mushroom",
+    "birthDay": "12 2",
+    "height": "152",
+    "bloodType": "A",
+    "birthPlace": "Gunma Prefecture",
+    "personality": "Mischievous scamp",
+    "ultimateMoves": ["Splitgill Lung Strike"]
+  },
+  {
+    "name": "Juzo Honenuki",
+    "heroName": "Mudman",
+    "quirk": "Softening",
+    "birthDay": "06 20",
+    "height": "174",
+    "bloodType": "AB",
+    "birthPlace": "Kanagawa Prefecture",
+    "personality": "Competitive",
+    "ultimateMoves": ["Subsidence"]
+  },
+  {
+    "name": "Pony Tsunotori",
+    "heroName": "Undecided",
+    "quirk": "Horn Cannon",
+    "birthDay": "04 21",
+    "height": "155",
+    "bloodType": "O",
+    "birthPlace": "United States",
+    "personality": "Very sociable",
+    "ultimateMoves": ["Thunder Horn", "Horn Dash Hammer", "Horn Surf"]
+  },
+  {
+    "name": "Setsuna Tokage",
+    "heroName": "Lizardy",
+    "quirk": "Lizard Tail Splitter",
+    "birthDay": "10 13",
+    "height": "158",
+    "bloodType": "B",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "Kind of detached",
+    "ultimateMoves": ["Part-Powered Punch", "Cast Away"]
+  },
+  {
+    "name": "Jurota Shishida",
+    "heroName": "Gevaudan",
+    "quirk": "Beast",
+    "birthDay": "03 26",
+    "height": "174",
+    "bloodType": "O",
+    "birthPlace": "Akita Prefecture",
+    "personality": "Reckless rusher",
+    "ultimateMoves": ["Roaring Rage"]
+  },
+  {
+    "name": "Shihai Kuroiro",
+    "heroName": "Vantablack",
+    "quirk": "Black",
+    "birthDay": "11 1",
+    "height": "176",
+    "bloodType": "A",
+    "birthPlace": "Fukushima Prefecture",
+    "personality": "Schemer",
+    "ultimateMoves": ["Darkseek"]
+  },
+  {
+    "name": "Nirengeki Shoda",
+    "heroName": "Mines",
+    "quirk": "Twin Impact",
+    "birthDay": "02 2",
+    "height": "165",
+    "bloodType": "O",
+    "birthPlace": "Tokyo",
+    "personality": "Strong-willed",
+    "ultimateMoves": ["Twin Impact: Fire"]
+  },
+  {
+    "name": "Kosei Tsuburaba",
+    "heroName": "???",
+    "quirk": "Solid Air",
+    "birthDay": "05 19",
+    "height": "170",
+    "bloodType": "O",
+    "birthPlace": "Kanagawa Prefecture",
+    "personality": "Unsung background hero",
+    "ultimateMoves": ["Air Prison"]
+  },
+  {
+    "name": "Yui Kodai",
+    "heroName": "Rule",
+    "quirk": "Size",
+    "birthDay": "12 19",
+    "height": "160",
+    "bloodType": "B",
+    "birthPlace": "Shimane Prefecture",
+    "personality": "Nerves of steel",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Sen Kaibara",
+    "heroName": "Sprial",
+    "quirk": "Gyrate",
+    "birthDay": "06 12",
+    "height": "172",
+    "bloodType": "B",
+    "birthPlace": "Tokyo",
+    "personality": "Amenable",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Manga Fukidashi",
+    "heroName": "Comicman",
+    "quirk": "Comic",
+    "birthDay": "02 2",
+    "height": "140 - 160",
+    "bloodType": "A",
+    "birthPlace": "Wakayama Prefecture",
+    "personality": "Ultra Positive",
+    "ultimateMoves": ["KRASH", "WHAMABAM"]
+  },
+  {
+    "name": "Yosetsu Awase",
+    "heroName": "Welder",
+    "quirk": "Weld",
+    "birthDay": "11 7",
+    "height": "172",
+    "bloodType": "O",
+    "birthPlace": "Niigata Prefecture",
+    "personality": "Child of the times",
+    "ultimateMoves": ["Construction-Done-Kwik: Weldcraft"]
+  },
+  {
+    "name": "Reiko Yanagi",
+    "heroName": "Emily",
+    "quirk": "Poltergeist",
+    "birthDay": "02 11",
+    "height": "165",
+    "bloodType": "B",
+    "birthPlace": "Aichi Prefecture",
+    "personality": "Mysterious",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Hiryu Rin",
+    "heroName": "Long Weizi",
+    "quirk": "Scales",
+    "birthDay": "07 14",
+    "height": "170",
+    "bloodType": "A",
+    "birthPlace": "China",
+    "personality": "Calm and composed",
+    "ultimateMoves": ["Leafy Scales", "Scales of Wrath", "Inner Carapace"]
+  },
+  {
+    "name": "Togaru Kamakiri",
+    "heroName": "Jack Mantis",
+    "quirk": "Razor Sharp",
+    "birthDay": "01 7",
+    "height": "189",
+    "bloodType": "A",
+    "birthPlace": "Nagaski Prefecture",
+    "personality": "Battle fiend",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Kojiro Bondo",
+    "heroName": "Plamo",
+    "quirk": "Cemedine",
+    "birthDay": "12 23",
+    "height": "191",
+    "bloodType": "AB",
+    "birthPlace": "Tokyo",
+    "personality": "Relaaaxed",
+    "ultimateMoves": ["Glue squall"]
   }
 ]
