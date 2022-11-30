@@ -463,5 +463,82 @@
     "birthPlace": "Tokyo",
     "personality": "Relaaaxed",
     "ultimateMoves": ["Glue squall"]
+  },
+  {
+    "name": "Mirio Togata",
+    "heroName": "Lemillion",
+    "quirk": "Permeate",
+    "birthDay": "07 15",
+    "height": "181",
+    "bloodType": "O",
+    "birthPlace": "Chiba Prefecture",
+    "personality": "Sunny Disposition",
+    "ultimateMoves": ["Blinder Touch Eyeball Crush", "Phantom Menace"]
+  },
+  {
+    "name": "Tamaki Amajiki",
+    "heroName": "Suneater",
+    "quirk": "Manifest",
+    "birthDay": "03 04",
+    "height": "177",
+    "bloodType": "AB",
+    "birthPlace": "Chiba Prefecture",
+    "personality": "Ultra Negative Man",
+    "ultimateMoves": ["Vast Hybrid Chimera: Kraken"]
+  },
+  {
+    "name": "Nejire Hado",
+    "heroName": "Nejire",
+    "quirk": "Wave Motion",
+    "birthDay": "10 06",
+    "height": "164",
+    "bloodType": "B",
+    "birthPlace": "Akita Prefecture",
+    "personality": "Curiouser and curiouser",
+    "ultimateMoves": ["Nejire Wave"]
+  },
+  {
+    "name": "Hitoshi Shinso",
+    "heroName": "Undecided",
+    "quirk": "Brainwashing",
+    "birthDay": "07 01",
+    "height": "177",
+    "bloodType": "AB",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "Stoic",
+    "ultimateMoves": ["Persona Cards", "Eraser Head's Binding Cloth"]
+  },
+  {
+    "name": "Mei Hatsume",
+    "heroName": "None",
+    "quirk": "Zoom",
+    "birthDay": "04 18",
+    "height": "157",
+    "bloodType": "O",
+    "birthPlace": "Kyoto Prefecture",
+    "personality": "Undaunted challenger",
+    "ultimateMoves": ["Trial and error"]
+  },
+  {
+    "name": "Inasa Yoarashi",
+    "heroName": "Gale Force",
+    "quirk": "Whirlwind",
+    "birthDay": "09 26",
+    "height": "190",
+    "bloodType": "B",
+    "birthPlace": "Yamanashi Prefecture",
+    "personality": "Stupidly straightforward",
+    "ultimateMoves": ["Slicing Gust: Fury", "Mountain Haze: Majesty"]
+  },
+  {
+    "name": "Camie Utsushmi",
+    "heroName": "Illus-o-Camie",
+    "quirk": "Glamor",
+    "birthDay": "08 15",
+    "height": "161",
+    "bloodType": "O",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "Uninhibited dummy",
+    "ultimateMoves": ["Dolppelviber", "High-Key Mirage"]
   }
 ]

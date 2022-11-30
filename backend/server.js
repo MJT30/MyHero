@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(methodOverride("_method"));
 
-app.get("/", (req, res) => {
+app.get("/api", (req, res) => {
   MyHero.find({}).then((data) => res.json(myHeroSeed));
 });
 
