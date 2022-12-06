@@ -540,5 +540,71 @@
     "birthPlace": "Saitama Prefercture",
     "personality": "Uninhibited dummy",
     "ultimateMoves": ["Dolppelviber", "High-Key Mirage"]
+  },
+  {
+    "name": "Seji Shishikura",
+    "heroName": "Shishikross",
+    "quirk": "Meatball",
+    "birthDay": "02 09",
+    "height": "172",
+    "bloodType": "A",
+    "birthPlace": "Okayama Prefecture",
+    "personality": "Persuadable",
+    "ultimateMoves": ["Meatball", "Chorizo"]
+  },
+  {
+    "name": "Nagamasa Mora",
+    "heroName": "Chewyee",
+    "quirk": "Extend-o-Hair",
+    "birthDay": "11 13",
+    "height": "180",
+    "bloodType": "O",
+    "birthPlace": "Okayama Prefecture",
+    "personality": "Exemplary leader",
+    "ultimateMoves": ["Hell-Hair"]
+  },
+  {
+    "name": "Yo Shindo",
+    "heroName": "Grand",
+    "quirk": "Vibrate",
+    "birthDay": "05 13",
+    "height": "176",
+    "bloodType": "AB",
+    "birthPlace": "Shizuoka Prefecture",
+    "personality": "Pretty-boy troll",
+    "ultimateMoves": ["Tremoring Earth"]
+  },
+  {
+    "name": "Tatami Nakagame",
+    "heroName": "Turtle Neck",
+    "quirk": "Telescopic",
+    "birthDay": "01 23",
+    "height": "155",
+    "bloodType": "A",
+    "birthPlace": "Aichi Prefecture",
+    "personality": "Follow-the-crowd type",
+    "ultimateMoves": ["Rocket Punch", "Rocket Dash"]
+  },
+  {
+    "name": "Shikkui Makabe",
+    "heroName": "Mr. Smith",
+    "quirk": "Stiffening",
+    "birthDay": "03 30",
+    "height": "180",
+    "bloodType": "B",
+    "birthPlace": "Iwate Prefecture",
+    "personality": "Stiff",
+    "ultimateMoves": ["Forge Shield"]
+  },
+  {
+    "name": "Itejiro Toteki",
+    "heroName": "Boomerang Man",
+    "quirk": "Boomerang",
+    "birthDay": "12 20",
+    "height": "171",
+    "bloodType": "B",
+    "birthPlace": "Aichi Prefecture",
+    "personality": "High=strung",
+    "ultimateMoves": ["Crescent Moon", "Full Moon"]
   }
 ]

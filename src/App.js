@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+import "../src/style/style.css";
 function App() {
   const [hero, setHero] = useState([{}]);
 
@@ -14,10 +14,10 @@ function App() {
 
   return (
     <div className="App">
-      <b>Name:</b> {hero[0].name}
+      <div className="name">{hero[0].name}</div>
       <br></br>
       <br></br>
-      <b> Hero Name:</b> {hero[0].heroName}
+      <b>Hero Name:</b> {hero[0].heroName}
       <br></br>
       <br></br>
       <b>Quirk:</b> {hero[0].quirk}
