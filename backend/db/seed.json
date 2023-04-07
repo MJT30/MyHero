@@ -604,7 +604,169 @@
     "height": "171",
     "bloodType": "B",
     "birthPlace": "Aichi Prefecture",
-    "personality": "High=strung",
+    "personality": "High-strung",
     "ultimateMoves": ["Crescent Moon", "Full Moon"]
+  },
+  {
+    "name": "Toshinori Yagi",
+    "heroName": "All Might",
+    "quirk": "One for All",
+    "birthDay": "06 10",
+    "height": "220",
+    "bloodType": "A",
+    "birthPlace": "Tokyo",
+    "personality": "Unexpectedly Playful",
+    "ultimateMoves": [
+      "Texas Smash",
+      "Detroit Smash",
+      "Missouri Smash",
+      "Carolina Smash",
+      "etc"
+    ]
+  },
+  {
+    "name": "Enji Todoroki",
+    "heroName": "Endeavor",
+    "quirk": "Hellflame",
+    "birthDay": "08 08",
+    "height": "195",
+    "bloodType": "AB",
+    "birthPlace": "Around Shizuoka Prefecture",
+    "personality": "Pigheaded Father",
+    "ultimateMoves": [
+      "Flashfire Fist: Jetburn, Flashfire Fist: Hell Spider, Prominence Burn, PLUS ULTRA Prominence Burn"
+    ]
+  },
+  {
+    "name": "Keigo Takami",
+    "heroName": "Hawks",
+    "quirk": "Fierce Wings",
+    "birthDay": "12 28",
+    "height": "172",
+    "bloodType": "B",
+    "birthPlace": "Fukuoka Prefecture",
+    "personality": "Sharp-eyed, sharp-eared",
+    "ultimateMoves": ["Weather Vane Wing, Wind-Cutter"]
+  },
+  {
+    "name": "Tsunagu Hakamada",
+    "heroName": "Best Jeanist",
+    "quirk": "Fiber Master",
+    "birthDay": "10 05",
+    "height": "190",
+    "bloodType": "AB",
+    "birthPlace": "Okayama Prefecture",
+    "personality": "Approaches everything like a well-fitted suit",
+    "ultimateMoves": ["Clothing is the Cage of Our Times, Dress-Up Soliloquy"]
+  },
+  {
+    "name": "Shota Aizawa",
+    "heroName": "Eraser Head",
+    "quirk": "Erasure",
+    "birthDay": "11 08",
+    "height": "183",
+    "bloodType": "B",
+    "birthPlace": "Tokyo",
+    "personality": "Actully kind of doting",
+    "ultimateMoves": ["Binding Cloth"]
+  },
+  {
+    "name": "Hizashi Yamada",
+    "heroName": "Present Mic",
+    "quirk": "Voice",
+    "birthDay": "07 07",
+    "height": "185",
+    "bloodType": "B",
+    "birthPlace": "Tokyo",
+    "personality": "Extremely excitable",
+    "ultimateMoves": ["Echo Voice, High Shout"]
+  },
+  {
+    "name": "Sorahiko Torino",
+    "heroName": "Gran Torino",
+    "quirk": "Jet",
+    "birthDay": "01 28",
+    "height": "120",
+    "bloodType": "B",
+    "birthPlace": "Yamanashi Prefecture",
+    "personality": "Carrot-and- stick mentality",
+    "ultimateMoves": ["Jet V8 Wild Speed"]
+  },
+  {
+    "name": "Mirai Sasaki",
+    "heroName": "Sir Nighteye",
+    "quirk": "Foresight",
+    "birthDay": "01 02",
+    "height": "200",
+    "bloodType": "AB",
+    "birthPlace": "Tokyo",
+    "personality": "Humor Lover",
+    "ultimateMoves": ["Seal Stamp"]
+  },
+  {
+    "name": "Shinya Kamihara",
+    "heroName": "Edgeshot",
+    "quirk": "Foldabody",
+    "birthDay": "02 22",
+    "height": "170",
+    "bloodType": "A",
+    "birthPlace": "Unknown",
+    "personality": "Private and secretive",
+    "ultimateMoves": ["Ninpo: Thousand Sheet Pierce"]
+  },
+  {
+    "name": "Shinji Nishiya",
+    "heroName": "Kamui Woods",
+    "quirk": "Arbor",
+    "birthDay": "05 20",
+    "height": "168",
+    "bloodType": "A",
+    "birthPlace": "Kagoshima Prefecture",
+    "personality": "Tight-liped and straitlaced",
+    "ultimateMoves": ["Preemptive Binding Lacqured Chain Prison"]
+  },
+  {
+    "name": "Yu Takeyama",
+    "heroName": "Mt. Lady",
+    "quirk": "Gigantification",
+    "birthDay": "08 11",
+    "height": "162 -> 2,062",
+    "bloodType": "B",
+    "birthPlace": "Hokkaido",
+    "personality": "Self-Intrested",
+    "ultimateMoves": ["Canyon Cannon, Titan Cliff"]
+  },
+  {
+    "name": "Ryuko Tatsuma",
+    "heroName": "Ryukyu",
+    "quirk": "Dragon",
+    "birthDay": "9 22",
+    "height": "166",
+    "bloodType": "A",
+    "birthPlace": "Okinawa",
+    "personality": "Dependable big sister",
+    "ultimateMoves": ["Dragoon Punish, Wing Slash"]
+  },
+  {
+    "name": "Taishiro Toyomitsu",
+    "heroName": "Fat Gum",
+    "quirk": "Fat Asorption",
+    "birthDay": "8 8",
+    "height": "250",
+    "bloodType": "O",
+    "birthPlace": "Osaka",
+    "personality": "Reliable big brother",
+    "ultimateMoves": ["Stuff 'Em in, Calorie Fuel Burn"]
+  },
+  {
+    "name": "Kugo Sakamata",
+    "heroName": "Gang Orca",
+    "quirk": "Orcinus",
+    "birthDay": "10 29",
+    "height": "202",
+    "bloodType": "O",
+    "birthPlace": "Kanagawa Prefecture",
+    "personality": "Drill Sergeant",
+    "ultimateMoves": ["Ultra Sonic Waves"]
   }
 ]
