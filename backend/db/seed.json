@@ -768,5 +768,60 @@
     "birthPlace": "Kanagawa Prefecture",
     "personality": "Drill Sergeant",
     "ultimateMoves": ["Ultra Sonic Waves"]
+  },
+  {
+    "name": "Shino Sozaki",
+    "heroName": "Mandalay",
+    "quirk": "Telepath",
+    "birthDay": "05 01",
+    "height": "168",
+    "bloodType": "A",
+    "birthPlace": "Miyagi Prefecture",
+    "personality": "Loves her cousin's kid",
+    "ultimateMoves": ["Cat Claw"]
+  },
+  {
+    "name": "Ryuko Tsuchikawa",
+    "heroName": "Pixie-Bob",
+    "quirk": "Earthflow",
+    "birthDay": "06 26",
+    "height": "167",
+    "bloodType": "AB",
+    "birthPlace": "Ehime Prefecture",
+    "personality": "Animated",
+    "ultimateMoves": ["Earth Beasat, Landslide"]
+  },
+  {
+    "name": "Yawara Chatora",
+    "heroName": "Tiger",
+    "quirk": "Pilabody",
+    "birthDay": "02 29",
+    "height": "190",
+    "bloodType": "A",
+    "birthPlace": "Kagoshima Prefecture",
+    "personality": "A true friend",
+    "ultimateMoves": ["Cat Combat"]
+  },
+  {
+    "name": "Tomoko Shiretoko",
+    "heroName": "Rangdoll",
+    "quirk": "Search",
+    "birthDay": "06 08",
+    "height": "166",
+    "bloodType": "O",
+    "birthPlace": "Tokyo",
+    "personality": "Preceptive",
+    "ultimateMoves": ["Cat Outta Hell"]
+  },
+  {
+    "name": "",
+    "heroName": "",
+    "quirk": "",
+    "birthDay": "",
+    "height": "",
+    "bloodType": "",
+    "birthPlace": "",
+    "personality": "",
+    "ultimateMoves": []
   }
 ]
