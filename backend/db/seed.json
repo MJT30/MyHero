@@ -966,5 +966,95 @@
     "birthPlace": "Unknown",
     "personality": "Unyielding Smile",
     "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Tomura Shigaraki",
+    "heroName": "Tenko Shimura",
+    "quirk": "All for One",
+    "birthDay": "04 04",
+    "height": "175",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Man-Child",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Unknown",
+    "heroName": "All For One",
+    "quirk": "All for One",
+    "birthDay": "Unknown",
+    "height": "Unknown",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Unsettling",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Toya Todoroki",
+    "heroName": "Dabi",
+    "quirk": "Blueflame",
+    "birthDay": "Unknown",
+    "height": "Unknown",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Insctutable",
+    "ultimateMoves": [
+      "Flashfire Fist: Jetburn, Flashfire Fist: Hell Spider, Prominence Burn, Phosphor"
+    ]
+  },
+  {
+    "name": "Himiko Toga",
+    "heroName": "Himiko Toga",
+    "quirk": "Transform",
+    "birthDay": "08 07",
+    "height": "157",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Lovestruck",
+    "ultimateMoves": ["Sad Man's Parade"]
+  },
+  {
+    "name": "Jin Bubaigawara",
+    "heroName": "Jin",
+    "quirk": "Double",
+    "birthDay": "05 10",
+    "height": "178",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Utterly Chaotic",
+    "ultimateMoves": ["Sad Man's Parade"]
+  },
+  {
+    "name": "Unknown",
+    "heroName": "Kurogiri",
+    "quirk": "Warp Gate",
+    "birthDay": "Unknown",
+    "height": "Unknown",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Composed",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Atsuhiro Sako",
+    "heroName": "Mr. Compress",
+    "quirk": "Compress",
+    "birthDay": "Unknown",
+    "height": "Unknown",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Entertainer",
+    "ultimateMoves": ["Unknown"]
+  },
+  {
+    "name": "Shuichi Iguchi",
+    "heroName": "Spinner",
+    "quirk": "Gecko, Body Bulk, Scalemail",
+    "birthDay": "08 08",
+    "height": "174",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Stain Zelot",
+    "ultimateMoves": ["Unknown"]
   }
 ]
