@@ -814,14 +814,157 @@
     "ultimateMoves": ["Cat Outta Hell"]
   },
   {
-    "name": "",
-    "heroName": "",
-    "quirk": "",
-    "birthDay": "",
-    "height": "",
-    "bloodType": "",
-    "birthPlace": "",
-    "personality": "",
-    "ultimateMoves": []
+    "name": "Rumi Usagiyama",
+    "heroName": "Mirko",
+    "quirk": "Rabbit",
+    "birthDay": "03 01",
+    "height": "159",
+    "bloodType": "O",
+    "birthPlace": "Hiroshima Prefecture",
+    "personality": "Strong-minded",
+    "ultimateMoves": ["Luna Crescent"]
+  },
+  {
+    "name": "Sekijiro Kan",
+    "heroName": "Vlad",
+    "quirk": "Blood Control",
+    "birthDay": "11 10",
+    "height": "194",
+    "bloodType": "B",
+    "birthPlace": "Aomori Prefecture",
+    "personality": "Hot-Blooded man's man",
+    "ultimateMoves": ["Blood Blade"]
+  },
+  {
+    "name": "Nemuri Kayama",
+    "heroName": "Midnight",
+    "quirk": "Somnambulist",
+    "birthDay": "03 09",
+    "height": "175",
+    "bloodType": "A",
+    "birthPlace": "Saitama Prefercture",
+    "personality": "Super Sadist",
+    "ultimateMoves": ["Sleepy Hollow"]
+  },
+  {
+    "name": "Ken Ishiyama",
+    "heroName": "Cementoss",
+    "quirk": "Cement",
+    "birthDay": "03 22",
+    "height": "185",
+    "bloodType": "B",
+    "birthPlace": "Yamagata Prefecture",
+    "personality": "Unflappable",
+    "ultimateMoves": ["Battering Ram"]
+  },
+  {
+    "name": "Unknown",
+    "heroName": "Ectoplasm",
+    "quirk": "Clones",
+    "birthDay": "03 23",
+    "height": "180",
+    "bloodType": "AB",
+    "birthPlace": "Okinawa Prefecture",
+    "personality": "Hard knocks adherent",
+    "ultimateMoves": ["Giant Bite Detention"]
+  },
+  {
+    "name": "Nezu",
+    "heroName": "Unknown",
+    "quirk": "High Specs",
+    "birthDay": "01 01",
+    "height": "85",
+    "bloodType": "A",
+    "birthPlace": "Tokyo",
+    "personality": "Refinded yet friendly ",
+    "ultimateMoves": ["Brain Break"]
+  },
+  {
+    "name": "Higari Maijima",
+    "heroName": "Power Loader",
+    "quirk": "Iron Claws",
+    "birthDay": "09 17",
+    "height": "155",
+    "bloodType": "A",
+    "birthPlace": "Osaka",
+    "personality": "Eccentric genius",
+    "ultimateMoves": ["Mole Sink"]
+  },
+  {
+    "name": "Ryo Inui",
+    "heroName": "Hound Dog",
+    "quirk": "Dog",
+    "birthDay": "11 15",
+    "height": "196",
+    "bloodType": "A",
+    "birthPlace": "Tokyo",
+    "personality": "Workaholic",
+    "ultimateMoves": ["Wild Hunt"]
+  },
+  {
+    "name": "Chiyo Shuzenji",
+    "heroName": "Recovery Girl",
+    "quirk": "Heal",
+    "birthDay": "04 04",
+    "height": "115",
+    "bloodType": "B",
+    "birthPlace": "Tokyo",
+    "personality": "Brisk and lucid",
+    "ultimateMoves": ["Healing"]
+  },
+  {
+    "name": "Unknown",
+    "heroName": "Thirteen",
+    "quirk": "Black Hole",
+    "birthDay": "02 03",
+    "height": "180",
+    "bloodType": "A",
+    "birthPlace": "Kagoshima Prefecture (Tangashima)",
+    "personality": "Gentle",
+    "ultimateMoves": ["Black Hole"]
+  },
+  {
+    "name": "Kaoruko Awata",
+    "heroName": "Bubble Girl",
+    "quirk": "Bubble",
+    "birthDay": "04 23",
+    "height": "167",
+    "bloodType": "B",
+    "birthPlace": "Ehime Prefecture",
+    "personality": "Get-it-done attitude",
+    "ultimateMoves": ["Prefume Bubble"]
+  },
+  {
+    "name": "Juzo Moashi",
+    "heroName": "Centipeder",
+    "quirk": "Centipede",
+    "birthDay": "06 04",
+    "height": "205",
+    "bloodType": "A",
+    "birthPlace": "Niigata Prefecture",
+    "personality": "Composed gentleman",
+    "ultimateMoves": ["Centicoil"]
+  },
+  {
+    "name": "Ken Takagi",
+    "heroName": "Rock Lock",
+    "quirk": "Lock Down",
+    "birthDay": "06 09",
+    "height": "173",
+    "bloodType": "B",
+    "birthPlace": "Tokushima Prefecture",
+    "personality": "Great guy, deep down",
+    "ultimateMoves": ["Deadbolt"]
+  },
+  {
+    "name": "Nana Shimura",
+    "heroName": "Unknown",
+    "quirk": "One for All",
+    "birthDay": "Unknown",
+    "height": "Unknown",
+    "bloodType": "Unknown",
+    "birthPlace": "Unknown",
+    "personality": "Unyielding Smile",
+    "ultimateMoves": ["Unknown"]
   }
 ]
